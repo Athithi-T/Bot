@@ -5,3 +5,4 @@ phase2:maze solver bot using ip The bot will start from the start node. Shapes p
 
 phase 3:obstrucle avoding maze solver bot using ip Similar to Phase 2 printed out shapes are shown to the laptop camera to decode coordinates. After finding the coordinates while the bot travels to the target node obstacles would be randomly places by organisers on the track. The bot should be able to detect the obstacle present on the track and reroute its path to reach the target node
 
+![phase_1 2_assembly](https://github.com/Athithi-T/Bot/assets/83634192/6d8e1d2d-ad83-4184-a8a3-501ebc396e3c)
